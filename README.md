@@ -34,7 +34,7 @@ The custom build of highlight.js used in this repository supports the following 
 
 ## Styling
 
-The CSS is based on the `VS2015` highlight.js theme. It has some minor adjustments to adapt to the custom Evolution theme for WordPress used on my website.
+The CSS is based on the `github-dark` highlight.js theme. It has some minor adjustments to adapt to the custom Evolution theme for WordPress used on my website.
 
 ---
 Developed with ☕ by [Matheus Misumoto](https://matheusmisumoto.dev) in Santos, Brazil

@@ -3,7 +3,7 @@
 /*
  * Plugin Name:       Highlight.js for Evolution
  * Description:       Plugin to highlight code in your posts. Uses a custom build of highlight.js.
- * Version:           1.0
+ * Version:           1.1
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Matheus Misumoto
@@ -22,7 +22,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'PLUGIN_NAME_VERSION', '1.0' );
+define( 'PLUGIN_NAME_VERSION', '1.1' );
 
 if ( ! function_exists( 'run_code_highlight' ) ) {
     function run_code_highlight(){
